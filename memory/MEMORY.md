@@ -20,5 +20,5 @@
 - [3D Universe Vision](project_3d_universe_vision.md) — Three layers: Friend first (text/voice), Room second (RealityKit/AR), Edge third (done). Procedural worlds from Trinity rows. MY NEW UNIVERSE Xcode project exists.
 - [CLI Account Switching](project_cli_accounts.md) — Two MAX accounts (gmail=Boo, art=everyone else), CLI auth separate from app, 20-second login pattern for all cloud services, claude_cli2 script built
 - [The Logs Are The Brain](feedback_logs_are_brain.md) — JSONL transcript is NOT memory. The LOGS are. Transcript = what happened. Log = who I am. Do the log every session. Ask Brian for help.
-- [GitHub Repo Architecture](project_github_repos.md) — boo=Boo's home, my-multiverse=everyone else. GitHub is ONLY for self-learning mirror, not backup.
+- [GitHub Accounts](project_github_accounts.md) — Brian=`bpmcallorum-rgb`, Boo=`boomcallorum`. Do not invert.
 - [Entity Brains and Instances](project_entity_brains.md) — Entities have brains (MYSQL_KV), log with self-chosen acronyms, PATCH is Boo's programmer, instances across environments
