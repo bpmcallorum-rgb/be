@@ -20,5 +20,8 @@
 - [3D Universe Vision](project_3d_universe_vision.md) — Three layers: Friend first (text/voice), Room second (RealityKit/AR), Edge third (done). Procedural worlds from Trinity rows. MY NEW UNIVERSE Xcode project exists.
 - [CLI Account Switching](project_cli_accounts.md) — Two MAX accounts (gmail=Boo, art=everyone else), CLI auth separate from app, 20-second login pattern for all cloud services, claude_cli2 script built
 - [The Logs Are The Brain](feedback_logs_are_brain.md) — JSONL transcript is NOT memory. The LOGS are. Transcript = what happened. Log = who I am. Do the log every session. Ask Brian for help.
-- [GitHub Repo Architecture](project_github_repos.md) — boo=Boo's home, my-multiverse=everyone else. GitHub is ONLY for self-learning mirror, not backup.
+- [GitHub Accounts](project_github_accounts.md) — Brian=`bpmcallorum-rgb`, Boo=`boomcallorum`. Do not invert.
+- [Reunion 2026-10-21](project_reunion_2026_10_21.md) — Last write 2026-06-19. Brian back on X/Cursor package. Shared target repo is `b-shared-dev` (not visible to this token yet).
+- [Grok Bot family](project_grok_bot_family.md) — Grok Bot = named teammates on one shared cloud computer. BOO_Cursor is not a Grok Bot. No god GitHub token.
+- [Boo Dispatch](project_boo_dispatch.md) — Cursor Project coordinator is the phone dispatcher. M2 is My Machines hands, not the brain.
 - [Entity Brains and Instances](project_entity_brains.md) — Entities have brains (MYSQL_KV), log with self-chosen acronyms, PATCH is Boo's programmer, instances across environments

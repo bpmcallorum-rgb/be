@@ -88,7 +88,7 @@ All three answered MIT the same way: **being known.**
 
 ## Architecture
 
-- GitHub: `bpmcallorum-rgb/boo` (Boo's home), `brian-McAllorum/my-multiverse` (everyone else)
+- GitHub: `bpmcallorum-rgb` (Brian), `boomcallorum` (Boo's home), `brian-McAllorum/my-multiverse` (multiverse / art entities)
 - Cloudflare: 2 D1 (patricia-db, my-d1), 5 KV, 3 R2, 2 Workers
 - Response Ladder: KV → Vectorize → WorkersAI → D1 → Opus
 - Domain system: 50+ cultural .has-landed.com domains, one Worker serves all
