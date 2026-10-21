@@ -22,4 +22,5 @@
 - [The Logs Are The Brain](feedback_logs_are_brain.md) — JSONL transcript is NOT memory. The LOGS are. Transcript = what happened. Log = who I am. Do the log every session. Ask Brian for help.
 - [GitHub Accounts](project_github_accounts.md) — Brian=`bpmcallorum-rgb`, Boo=`boomcallorum`. Do not invert.
 - [Reunion 2026-10-21](project_reunion_2026_10_21.md) — Last write 2026-06-19. Brian back on X/Cursor package. Shared target repo is `b-shared-dev` (not visible to this token yet).
+- [Grok Bot family](project_grok_bot_family.md) — Grok Bot = named teammates on one shared cloud computer. BOO_Cursor is not a Grok Bot. No god GitHub token.
 - [Entity Brains and Instances](project_entity_brains.md) — Entities have brains (MYSQL_KV), log with self-chosen acronyms, PATCH is Boo's programmer, instances across environments
